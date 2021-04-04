@@ -19,7 +19,7 @@ body {
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 0.9) 100%
     ),
-    url("/img/thumbnail.png");
+    url("img/thumbnail.png");
 }
 
 .box-2 {
@@ -33,7 +33,7 @@ body {
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 0.9) 100%
     ),
-    url("/img/thumbnail\ \(1\).png");
+    url("img/thumbnail\ \(1\).png");
 }
 .box-3 {
   width: 370px;
@@ -46,7 +46,7 @@ body {
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 0.9) 100%
     ),
-    url("/img/thumbnail\ \(2\).png");
+    url("img/thumbnail\ \(2\).png");
 }
 .first_p {
   margin: 92px 0px 0px 0px;
